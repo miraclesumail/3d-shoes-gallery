@@ -2,7 +2,7 @@
  * @Author: sumail sumail@xyzzdev.com
  * @Date: 2026-02-03 11:41:07
  * @LastEditors: sumail sumail@xyzzdev.com
- * @LastEditTime: 2026-02-06 15:01:29
+ * @LastEditTime: 2026-02-07 21:06:47
  * @FilePath: /start-1/src/example/ring.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */

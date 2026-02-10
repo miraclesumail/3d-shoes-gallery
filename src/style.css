@@ -25,7 +25,8 @@ a:hover {
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  height: 100vh;
+  overflow: auto;
 }
 
 h1 {
@@ -48,4 +49,28 @@ h1 {
 }
 .logo.vanilla:hover {
   filter: drop-shadow(0 0 2em #f7df1eaa);
+}
+
+.scetion {
+  width: 100%;
+  height: 100vh;
+}
+
+.scetion1 {
+  background: #ccc;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: #646cff;
+}
+
+#grid {
+  display: grid;
+  /* grid-template-columns: repeat(); */
+}
+
+.gridBox {
+  background: #535bf2;
 }
